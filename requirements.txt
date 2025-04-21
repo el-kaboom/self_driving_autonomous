@@ -3,3 +3,4 @@ torch
 opencv-python
 matplotlib
 numpy
+carla
